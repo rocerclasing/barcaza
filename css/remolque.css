@@ -1,0 +1,28 @@
+/* CSS Document */
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+.contenedor
+{
+	position:relative;
+	width:100%;
+	
+}
+
+.header
+{
+	position:relative;
+	width:100%;
+	background: #444;
+}
+
+#logo-izquierda
+{
+	position:relative;
+	width:200px;
+	left:180px;
+}

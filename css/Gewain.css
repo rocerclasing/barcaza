@@ -1,0 +1,62 @@
+*
+{
+	margin:0px;
+	padding: 0px;
+}
+
+.contenedor
+{
+	position:relative;
+	widt:100%;
+	
+}
+
+.header
+{
+	position: relative;
+	width: 100%;
+	background: #444;
+}
+
+#logo-izquierda
+{
+	position:relative;
+	width:200px;
+	left:180px;
+}
+
+h1
+{
+	position: relative;
+	text-align: center;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+.footer
+{
+	position: relative;
+	width: 100%;
+	background: #444;
+	top:450px;
+	height: 200px;
+	
+}
+
+#logo-izquierda2
+{
+	position: relative;
+	width: 200px;
+	left:180px;
+	top:25px;
+	
+}

@@ -1,0 +1,72 @@
+/* CSS Document */
+
+*
+{
+	margin:0px;
+	pading:0px;
+}
+
+.header
+{
+	background: #444;
+}
+
+.logo-izquierda
+{
+	position:relative;
+	width:240px;
+	left:180px;
+	top:30px;
+}
+
+h1
+{
+	position: relative;
+	text-align: center;
+	color:#fff;
+}
+
+.parrafo
+{
+	position: relative;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/*footer*/
+.footer
+{
+	position: relative;
+	width:100%;
+	background: #444;
+	bottom:100px;
+    height: 240px;
+	top:279px;
+
+	
+	
+}
+
+.logo-izquierda2
+{
+	position:relative;
+	width:240px;
+	left:180px;
+	top:40px;
+}
+
+
+
+
+
+
+
+
+
